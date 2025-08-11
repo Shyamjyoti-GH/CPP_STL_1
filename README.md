@@ -1,6 +1,24 @@
 # CPP_STL_1
 DATA STRUCTURES
 
+## STRINGS
+    String s;
+    cin>>s;        //picks up anything before space
+    Getline(cin, s);    //Gets till the Line breaks
+    cout<<s;
+## SWITCH
+    switch(int_name){
+        case 1: ..... break;
+        case 2: ..... break;
+        default:.....
+    }
+## DO WHILE LOOP
+    do{    //will execute atleast for once
+    }
+    while{
+    }
+Array Always Pass with Reference Automatically
+
 ## PAIRS
     pair<int, int>p = {1,2};
       p.first, p.second    // gets me first int =1 and second int =2 
