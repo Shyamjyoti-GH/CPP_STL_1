@@ -1,6 +1,8 @@
 # CPP_STL_1
 DATA STRUCTURES
 
+## NEXT PERMUTATION
+    next_permutation(v.begin(), v.end());        //to find the permutation of a number/any datatype
 ## STRINGS
     String s;
     cin>>s;        //picks up anything before space
